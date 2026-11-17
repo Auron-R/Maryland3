@@ -5,7 +5,7 @@ body {
 }
 #Flag {
     position: relative;
-    width: 600px;
+    width:  600px;
     aspect-ratio: 3/2;
     background: red;
     isolation: isolate;
